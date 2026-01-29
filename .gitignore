@@ -1,0 +1,11 @@
+# AI rules (synced from ~/a/ai, not committed)
+.ai-rules/
+
+# Beads runtime (db is local, JSONL is committed)
+.beads/beads.db*
+.beads/.local_version
+.beads/export-state/
+.bv/
+
+# OS files
+.DS_Store
