@@ -1,1 +1,1 @@
-@./.ai-context.md
+AGENTS.md
